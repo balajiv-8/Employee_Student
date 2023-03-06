@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "firstname": "Balaji ",
+      "lastname": "v",
+      "birthdate": "2002-03-08",
+      "gender": "m",
+      "education": "10th pass",
+      "company": "abd",
+      "jobExperience": 1,
+      "salary": 100000,
+      "profile": "DSC_0212  copy1.jpg",
+      "id": 1
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "birthdate": "",
+      "gender": "",
+      "company": "",
+      "jobExperience": "",
+      "salary": "",
+      "profile": "659532.JPG",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
